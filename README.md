@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on TRUENO CSS and RENDER UI projects<br>👯 I’m looking to collaborate on Front-end Projects<br>🤝 I’m looking for help with front-end tasks<br>🌱 I’m currently learning VUE.js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
