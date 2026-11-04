@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobassum786&label=Profile%20views&color=0e75b6&style=flat" alt="tobassum786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobassum786" alt="tobassum786" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/code4mind" target="blank"><img src="https://img.shields.io/twitter/follow/code4mind?logo=twitter&style=for-the-badge" alt="code4mind" /></a> </p>
 
 - 🔭 I’m currently working on [TrunoCSS Framework](https://github.com/tobassum786/Trueno_CSS_framework.git) & [RenderUI](https://github.com/tobassum786/renderui.git)
